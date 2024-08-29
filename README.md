@@ -20,13 +20,13 @@ OS版本：Ubuntu18.04
 
 ## 文件结构：
 
-├─build
-├─cvt_yolov5s
-├─data
-├─inc
-├─model
-├─res
-└─src
+├─build <br>
+├─cvt_yolov5s <br>
+├─data <br>
+├─inc <br>
+├─model <br>
+├─res <br>
+└─src <br>
 
 ## 使用：
 
