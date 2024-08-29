@@ -63,7 +63,7 @@ OS版本：Ubuntu18.04
 
 ## 结果：
 
-![](../Atlas200_YOLOv5_DVPP_AIPP/res/out_yolov5_1.jpg)
+![](https://github.com/Felix-fz/Atlas200_YOLOv5_DVPP_AIPP/blob/main/res/out_yolov5_1.jpg)
 
 
 
