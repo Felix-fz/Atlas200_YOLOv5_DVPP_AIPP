@@ -47,7 +47,7 @@ OS版本：Ubuntu18.04
 3. 下载本代码：
    
    ```
-   
+   https://github.com/Felix-fz/Atlas200_YOLOv5_DVPP_AIPP.git
    ```
 
 4. 模型转换onnx --> om:
